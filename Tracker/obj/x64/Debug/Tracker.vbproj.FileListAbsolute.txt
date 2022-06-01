@@ -1,0 +1,26 @@
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\CefSharp.WinForms.pdb
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\CefSharp.WinForms.XML
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\Tracker.exe.config
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\Tracker.exe.manifest
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\Tracker.application
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\Tracker.exe
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\Tracker.pdb
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\Tracker.xml
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\MetroFramework.dll
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\bin\x64\Debug\MetroFramework.Fonts.dll
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.Index.resources
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.About.resources
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.Cinema.resources
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.Coursework Tracker.resources
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.Initialise.resources
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.Resources.resources
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.exe.manifest
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.application
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.vbproj.CopyComplete
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.exe
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.xml
+C:\Users\Jordan Gray`\Desktop\Yeet\Development\Tracker\Tracker\obj\x64\Debug\Tracker.pdb
